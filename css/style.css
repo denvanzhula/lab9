@@ -1,0 +1,88 @@
+body {
+    height: 100%;
+    margin: 0;
+    background-color: rgba(106, 165, 28, 0.962);
+}
+.line{
+    display: block;
+    text-align: center;
+}
+div.block{
+    display:inline-block;
+    padding: 10px;
+    margin-right: 98px;
+    margin-left: 95px;
+    margin-bottom: 4.5px;
+}
+.input {
+    display: block;
+    width: 165px;
+    height: 20px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+.one {
+    display: block;
+    width: 160px;
+    height: 35px;
+    font-size: 20px;
+    text-align: center;
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    background-color: rgba(218, 238, 163, 0.949);  
+    font-weight: bold;
+}
+.firstline{
+    display: block;    
+    text-align: center;
+}
+div.blockone{
+    display: inline-block;
+    padding: 15px;
+    margin-bottom: 5px;
+}
+p.sproba{
+    font-size: 23px;
+    font-weight: bold;
+}
+.secondline{
+    display: block; 
+    text-align: center;
+}
+div.blocktwo{
+    display:inline-block;
+    padding: 10px;
+    background-color: rgb(228, 222, 203);
+    width: 160px;
+    height: 20px;
+    border: 5px solid rgb(228, 233, 201);
+    border-radius: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.thirdline{
+    display: block; 
+    text-align: center;
+}
+img.cards{
+    display: inline-block;
+    background-color: aliceblue;
+    background-image: url(.//card.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-right: 118px;
+    margin-left: 118px;
+    width: 135px;
+    height: 190px;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+p#winner{
+    font-style:italic; 
+    font-size: 30px; 
+    font-weight: bold; 
+    text-align: center;
+}
